@@ -13,7 +13,7 @@
 %include "src\timer.asm"
 %include "src\melody.asm"
 %include "src\input.asm"
-%include "src\erase_&_undo.asm"
+%include "src\erase_and_undo.asm"
 %include "src\gameover.asm"
 %include "src\successful.asm"
 %include "src\notes_input.asm"
