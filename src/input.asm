@@ -1,5 +1,5 @@
 
-%include "C:\COAL_new\Code\checks.asm"
+%include "src\checks.asm"
 
 blink_box: dw 34
 non_blink_box: dw 10110100b
