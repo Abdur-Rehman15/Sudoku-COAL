@@ -2,7 +2,7 @@
 
 jmp ending_screen
 
-%include "C:\COAL_new\Code\print_string.asm"
+%include "src\print_string.asm"
 
 
 print_number_at_position:
