@@ -1,16 +1,29 @@
-# Sudoku-COAL
- 9x9 Sudoku in Assembly Language with an Opening Screen, Difficulty Levels, Animations, Sound, Scrolling and much more...!!
- 
+# 🧠 Sudoku in COAL Assembly
 
-![Screenshot (1248)](https://github.com/user-attachments/assets/1bcb0e4e-d94c-41d9-881d-b0c7b1c5b8aa)
+A low-level implementation of the classic 9x9 Sudoku puzzle using **COAL (Computer Organization and Assembly Language)**. This project demonstrates how complex logic can be simulated using basic assembly-level instructions and memory addressing, typically taught in Computer Organization courses.
+
+![COAL Sudoku Screenshot](https://github.com/user-attachments/assets/40fa64d2-ac62-447d-ab9f-92d38cef8299) <!-- Optional: Replace with actual screenshot if available -->
+
+---
+
+## 📌 Project Highlights
+
+- Developed entirely in **COAL Assembly**
+- Manual Sudoku validation logic
+- Demonstrates use of loops, memory manipulation, and conditional logic in a simulated low-level environment
+- Designed as a learning exercise for understanding how CPUs execute logic step-by-step
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** COAL Assembly
+- **Platform:** DOSBox
+
+---
+
+## 🧪 How to Run
+
+> ⚠️ This project is intended to be run on the **DOSBox** (assembler).
 
 
-After reading the instructions, Start The Game. **Navigate** through the grid and press 'Enter'. You can now select numbers from the **Number Cards** in the Left. To enter number **Notes**, simply press 'N' and press some number. Upon completing the row or column, you will hear a winning sound and your **Score** will increase.
-
-
-![Screenshot (1250)](https://github.com/user-attachments/assets/40fa64d2-ac62-447d-ab9f-92d38cef8299)
-
-
-Carefully complete the board, otherwise your **Mistakes** count will increase and you will lose the game. 
-
-To play this game, simply download the zip folder and place the 'src' folder where your NASM is setup. Voila! You can now play Classic Sudoku in Assembly 🤩
